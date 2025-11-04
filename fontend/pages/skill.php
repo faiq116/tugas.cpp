@@ -67,7 +67,7 @@ $skill = mysqli_query($connect, $qSkill) or die(mysqli_error($connect));
 
     .val {
         float: right;
-        color: #000;
+        color: #100;
     }
 </style>
 
