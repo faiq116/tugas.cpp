@@ -41,7 +41,7 @@ $dataBlog  = mysqli_fetch_assoc($blog);
 
         .blog .content h2 {
             font-weight: bold;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
 
         .blog .content {
